@@ -73,7 +73,7 @@ TEMPLATES = [
 ]
 
 # WSGI_APPLICATION = 'DjangoProject_CICD.wsgi.application'
-WSGI_APPLICATION = 'DjangoProject_CICD.wsgi.app'
+WSGI_APPLICATION = 'DjangoProject_CICD.wsgi.application'
 
 
 # Database
